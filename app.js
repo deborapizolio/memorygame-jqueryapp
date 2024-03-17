@@ -66,6 +66,7 @@ function arrayRandomize(arr) {
 
 function startGame() {
     $('.startBtn').hide();
+    $('.score').text('0');
     game.clicks = 0;
     game.pause = false;
     game.sel = [];
