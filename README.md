@@ -19,16 +19,16 @@ To get a local copy up and running follow these simple steps.
 
 This project requires jQuery. Ensure you have jQuery linked in your HTML file. You can include jQuery in your project by adding the following CDN link to your HTML:
 
-\```html
+\`\`\`html
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
-\```
+\`\`\`
 
 ### Installation
 
 1. Clone the repo:
-   \```sh
+   \`\`\`sh
    git clone https://github.com/your_username/MemoryGame.git
-   \```
+   \`\`\`
    
 ## Running the Project
 
